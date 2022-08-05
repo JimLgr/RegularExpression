@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\ExoR\ExoR\bin\Debug\net6.0\ExoR.exe
+C:\Users\pc\source\repos\ExoR\ExoR\bin\Debug\net6.0\ExoR.deps.json
+C:\Users\pc\source\repos\ExoR\ExoR\bin\Debug\net6.0\ExoR.runtimeconfig.json
+C:\Users\pc\source\repos\ExoR\ExoR\bin\Debug\net6.0\ExoR.dll
+C:\Users\pc\source\repos\ExoR\ExoR\bin\Debug\net6.0\ExoR.pdb
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.AssemblyInfo.cs
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.dll
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ref\ExoR.dll
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.pdb
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\ExoR.genruntimeconfig.cache
+C:\Users\pc\source\repos\ExoR\ExoR\obj\Debug\net6.0\refint\ExoR.dll
